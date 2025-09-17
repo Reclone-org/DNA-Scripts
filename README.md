@@ -21,4 +21,5 @@ Three main workflows have been produced:
 -   Takes DNA sequences as-is, adds the appropriate Reclone tags and outer BbsI adapters, checks constraints, and outputs order-ready parts.
 -   Best when the sequence must be preserved (no translation/codon constraints).
 
--   Please add any issues you find to the repository!
+
+Please add any issues you find to the repository!
